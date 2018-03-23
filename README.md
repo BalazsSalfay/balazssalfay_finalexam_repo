@@ -141,7 +141,7 @@ The student, on their own, is able to:
 
 **Choose one from below:**
 
-[### Backend](https://github.com/greenfox-academy/huli-kalendaryo-backend/tree/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo)
+### [Backend](https://github.com/greenfox-academy/huli-kalendaryo-backend/tree/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo)
 
  -  Use async structures:
      -  Writing functions that are taking and calling callbacks
@@ -163,7 +163,7 @@ The student, on their own, is able to:
      -  Components, configuration, dependencies, extensions
      -  Handle Authentication
 
-[### Mobile](https://github.com/greenfox-academy/huli-kalendaryo-android/tree/dev/app/src/main/java/com/greenfox/kalendaryo)
+### [Mobile](https://github.com/greenfox-academy/huli-kalendaryo-android/tree/dev/app/src/main/java/com/greenfox/kalendaryo)
 
  -  Use async structures:
      -  Writing functions that are taking and calling callbacks
