@@ -18,26 +18,26 @@ The student, on their own, is able to:
  -  Follow indentation and coding styleguides in their code
  -  Create variables and methods on a given specification
  -  Use conditions and loops:
-     -  Filtering
+     -  [Filtering](https://github.com/greenfox-academy/BalazsSalfay/blob/master/week-02/day-01/oddeven/src/OddEven.java)
      -  Finding elements or index
-     -  Generating lists
+     -  [Generating lists](https://github.com/greenfox-academy/BalazsSalfay/blob/master/week-02/day-03/candyshop/src/CandyShop.java)
      -  Checking mutiple values and counting
      -  Maping values
  -  Use object orientation:
-     -  Create and inherit classes including fields and methods on a given specification
+     -  [Create and inherit classes including fields and methods on a given specification](https://github.com/greenfox-academy/BalazsSalfay/tree/master/week-06/day-02/instruments/src)
      -  Understanding the difference between classes and objects
-     -  Instantiating and using objects
+     -  [Instantiating and using objects](https://github.com/greenfox-academy/BalazsSalfay/tree/master/week-04/day-02/gardenapplication/src)
      -  Understanding "this" keyword
  -  Handle errors and exceptions
  -  Determine the output of expressions
  -  Explain their own code
- -  Write unit tests for functions and methods
+ -  [Write unit tests for functions and methods](https://github.com/greenfox-academy/BalazsSalfay/blob/master/week-07/day-02/dojo/numberconvertertdd/test/NumberConverterTest.java)
  
  # Backend Orientation Exam Competencies
 
 ## Interfaces and abstract classes
 
-- usage of interfaces and abstract classes
+- [usage of interfaces and abstract classes](https://github.com/greenfox-academy/huli-kalendaryo-android/tree/dev/app/src/main/java/com/greenfox/kalendaryo/http/backend)
 - understanding the difference between interfaces and abstract classes
 - understand when to use interface and when to use super class
 
@@ -45,12 +45,12 @@ The student, on their own, is able to:
 
 - usage of language integrated quaries e.g. LINQ/StreamApi
 - understanding the syntax
-- able to write simple custom quaries
+- [able to write simple custom quaries](https://github.com/greenfox-academy/BalazsSalfay/blob/master/week-10/exampractice/licenceplate/src/main/java/com/greenfoxacademy/licenceplatesearch/services/CarServiceImpl.java)
 
 ## Build tool
 
-- use build tools to build and run your applications e.g. gradle/.Net CLI 
-- dependency definition
+- [use build tools to build and run your applications e.g. gradle/.Net CLI](https://github.com/greenfox-academy/BalazsSalfay/tree/master/week-08/day-01/candidate/src/main/java/com/greenfoxacademy/todoswithdatabase) 
+- [dependency definition](https://github.com/BalazsSalfay/candidate/blob/master/src/main/java/com/greenfoxacademy/todoswithdatabase/controllers/CandidateController.java)
 - able to restore 3rd party library dependencies
 
 ## 3rd party libraries
@@ -127,21 +127,21 @@ The student, on their own, is able to:
      -  Creating a pull request
  -  Understand API documentation
  -  Understand token based authorization
- -  Refactor code:
+ -  [Refactor code:](https://github.com/greenfox-academy/AttilaMandoki/blob/master/Week-09/Day-1/Dojo-Tennis_Game/src/TennisGame3.java)
      -  Create meaningful names for methods, classes and variables
      -  Split bigger functions to smaller ones
      -  Separate functionalities to different files
      -  Point out code smells
  -  Understand base concept of hosting
- -  Deployment and continuous integration
+ -  [Deployment and continuous integration](https://dashboard.heroku.com/apps/evening-taiga-51799)
  -  Using design patterns
- -  Integration testing
+ -  [Integration testing](https://github.com/greenfox-academy/BalazsSalfay/blob/master/week-10/exampractice/gfwebstore/src/test/java/comgreenfoxacademy/gfwebshop/controllers/StoreRestControllerTest.java)
  -  Differentiate between backend and frontend (client) functionality
 
 
 **Choose one from below:**
 
-### Backend
+[### Backend](https://github.com/greenfox-academy/huli-kalendaryo-backend/tree/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo)
 
  -  Use async structures:
      -  Writing functions that are taking and calling callbacks
@@ -163,7 +163,7 @@ The student, on their own, is able to:
      -  Components, configuration, dependencies, extensions
      -  Handle Authentication
 
-### Mobile
+[### Mobile](https://github.com/greenfox-academy/huli-kalendaryo-android/tree/dev/app/src/main/java/com/greenfox/kalendaryo)
 
  -  Use async structures:
      -  Writing functions that are taking and calling callbacks
