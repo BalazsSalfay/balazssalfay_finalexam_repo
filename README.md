@@ -19,16 +19,16 @@ The student, on their own, is able to:
  -  Create variables and methods on a given specification
  -  Use conditions and loops:
      -  [Filtering](https://github.com/greenfox-academy/BalazsSalfay/blob/master/week-02/day-01/oddeven/src/OddEven.java)
-     -  Finding elements or index
+     -  [Finding elements or index](https://github.com/BalazsSalfay/exam-trial-basics/blob/master/countas/src/CountAs.java)
      -  [Generating lists](https://github.com/greenfox-academy/BalazsSalfay/blob/master/week-02/day-03/candyshop/src/CandyShop.java)
-     -  Checking mutiple values and counting
+     -  [Checking mutiple values and counting](https://github.com/greenfox-academy/BalazsSalfay/blob/master/week-02/day-02/sumallelements/src/SumAllElements.java)
      -  Maping values
  -  Use object orientation:
      -  [Create and inherit classes including fields and methods on a given specification](https://github.com/greenfox-academy/BalazsSalfay/tree/master/week-06/day-02/instruments/src)
      -  Understanding the difference between classes and objects
      -  [Instantiating and using objects](https://github.com/greenfox-academy/BalazsSalfay/tree/master/week-04/day-02/gardenapplication/src)
-     -  Understanding "this" keyword
- -  Handle errors and exceptions
+     -  [Understanding "this" keyword](https://github.com/BalazsSalfay/exam-trial-basics/blob/master/pirates/src/Pirate.java)
+ -  [Handle errors and exceptions](https://github.com/greenfox-academy/BalazsSalfay/blob/master/week-03/day-01/writemultiplelines/src/WriteMultipleLines.java)
  -  Determine the output of expressions
  -  Explain their own code
  -  [Write unit tests for functions and methods](https://github.com/greenfox-academy/BalazsSalfay/blob/master/week-07/day-02/dojo/numberconvertertdd/test/NumberConverterTest.java)
@@ -41,11 +41,11 @@ The student, on their own, is able to:
 - understanding the difference between interfaces and abstract classes
 - understand when to use interface and when to use super class
 
-## Queries
+## [Queries](https://github.com/greenfox-academy/BalazsSalfay/blob/master/week-10/exampractice/licenceplate/src/main/java/com/greenfoxacademy/licenceplatesearch/services/CarServiceImpl.java)
 
 - usage of language integrated quaries e.g. LINQ/StreamApi
 - understanding the syntax
-- [able to write simple custom quaries](https://github.com/greenfox-academy/BalazsSalfay/blob/master/week-10/exampractice/licenceplate/src/main/java/com/greenfoxacademy/licenceplatesearch/services/CarServiceImpl.java)
+- able to write simple custom quaries
 
 ## Build tool
 
@@ -58,7 +58,7 @@ The student, on their own, is able to:
 - able to add and use libraries
 - find documentation and usage examples
 
-## Backend Framework
+## [Backend Framework](https://github.com/greenfox-academy/BalazsSalfay/tree/master/week-10/exampractice/gfwebstore/src/main/java/comgreenfoxacademy/gfwebshop)
 
 - creating a Web Application with the given backend framework e.g. Spring/ASP.Net Core
 - understanding the used components
@@ -71,7 +71,7 @@ The student, on their own, is able to:
 - able to alter basic configurations
 - understanding the flow of HTTP
 
-## Data persistance
+## [Data persistance](https://github.com/greenfox-academy/huli-kalendaryo-backend)
 
 - understanding and usage of basic SQL commands
   - `select`, `insert`, `update`, `delete`
@@ -83,6 +83,8 @@ The student, on their own, is able to:
   - tables and classes
   - records and objects
   - columns and fields/properties
+  
+  
 
 ## Web backend
 
