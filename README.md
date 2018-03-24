@@ -99,14 +99,14 @@ The student, on their own, is able to:
 - body
 - templates
 
-### REST Web backend
+### [REST Web backend](https://github.com/greenfox-academy/BalazsSalfay/blob/master/week-09/day-02/restbegin/src/main/java/com/example/greenfoxacademy/restbegin/controllers/RestBeginController.java)
 
 - understand what is an API and can use it
 - use JSON objects
 - understand the concept of serialization
 - able to use Postman
 
-## Endpoint tests
+## [Endpoint tests](https://github.com/greenfox-academy/BalazsSalfay/blob/master/week-10/exampractice/gfwebstore/src/test/java/comgreenfoxacademy/gfwebshop/controllers/StoreRestControllerTest.java)
 
 - able to make difference between unit test and integration test
 - create endpoint test
