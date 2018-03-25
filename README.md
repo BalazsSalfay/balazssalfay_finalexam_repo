@@ -2,7 +2,7 @@
 
 ## Accomplishments
 
- -  Multiple daily commits on the latest week
+ -  [Multiple daily commits on the latest week](https://github.com/BalazsSalfay)
 
 ## Skills
 
@@ -53,7 +53,7 @@ The student, on their own, is able to:
 - [dependency definition](https://github.com/BalazsSalfay/candidate/blob/master/src/main/java/com/greenfoxacademy/todoswithdatabase/controllers/CandidateController.java)
 - able to restore 3rd party library dependencies
 
-## 3rd party libraries
+## [3rd party libraries](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/build.gradle)
 
 - able to add and use libraries
 - find documentation and usage examples
