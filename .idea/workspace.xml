@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb199123-1862-4874-90bc-7f5b3b6d754d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ShiftingTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/balazssalfay_finalexam_repo.iml" afterPath="$PROJECT_DIR$/balazssalfay_finalexam_repo.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Shifting.java" afterPath="$PROJECT_DIR$/src/Shifting.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/src/Shifting.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="106">
-              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -295,7 +293,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522048663159</updated>
-      <workItem from="1522048665972" duration="2951000" />
+      <workItem from="1522048665972" duration="3411000" />
     </task>
     <servers />
   </component>
@@ -317,7 +315,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2951000" />
+    <option name="totallyTimeSpent" value="3411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -376,7 +374,7 @@
     <entry file="file://$PROJECT_DIR$/src/Shifting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding />
         </state>
       </provider>

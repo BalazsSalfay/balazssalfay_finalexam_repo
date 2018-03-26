@@ -4,7 +4,7 @@ public class Shifting {
 
     public static void main(String[] args) {
 
-        int shifter = 3;
+        int shifter = 2;
         int[] numbers = {1, 2, 3, 4, 5};
         System.out.println(Arrays.toString(shiftingElements(shifter, numbers)));
     }
